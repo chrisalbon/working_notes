@@ -250,3 +250,8 @@ mark {
 .article-meta {
     text-align: center;
 }
+
+.byline {
+    text-align: center;
+    margin-top: -10px;  /* Optional: adjust spacing between h1 and byline */
+}
