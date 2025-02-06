@@ -14,7 +14,7 @@
 }
 
 body {
-    font-family: var(--font-family-sans);
+    font-family: var(--font-family-serif);;
     color: var(--primary-color);
     background-color: var(--background-color);
     padding: 1rem;
@@ -29,7 +29,7 @@ body {
 
 /* Base heading styles */
 h1, h2, h3, h4, h5, h6 {
-    font-family: var(--font-family-serif);
+    font-family: var(--font-family-sans);
     letter-spacing: 0.05em;
     font-weight: 700;
     margin: 2rem 0 1.5rem;
