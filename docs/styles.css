@@ -14,7 +14,7 @@
 }
 
 body {
-    font-family: var(--font-family-serif);;
+    font-family: var(--font-family-serif);
     color: var(--primary-color);
     background-color: var(--background-color);
     padding: 1rem;
@@ -265,6 +265,7 @@ mark {
 .byline {
     display: block;
     text-align: center;
-    margin: 0;
+    font-size: 1.1rem;
+    font-family: var(--font-family-sans);
 } 
 
